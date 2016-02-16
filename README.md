@@ -1,2 +1,2 @@
 # cleyo
-Lightweight Document Management System (Android Version)
+Small Document Management System

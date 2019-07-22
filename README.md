@@ -1,4 +1,4 @@
 # cleyo
-Small Document Management System
+Lighweight Document Management System
 
-built with laravel
+Built with Go
